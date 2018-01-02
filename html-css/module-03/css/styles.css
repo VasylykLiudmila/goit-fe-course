@@ -1,0 +1,27 @@
+* {margin:10px;
+   padding:5px;
+   }
+.background {
+      background-image:url(../images/page-bg.jpg); 
+      background-size:cover;
+      background-repeat:no-repeat;
+      background-position:center;
+      }
+.body {min-height: 100vh;
+       }
+.wrapper {width:480px;
+      display:block;
+      margin-right:auto;
+      margin-left:auto;
+      padding:10px;
+      border:2px solid whitesmoke;
+      }
+.part{margin: 20px;
+      padding: 10px;
+ }
+ .text {font-weight:bold;
+ }
+ 
+ .list {column-count: 2;
+       list-style:none;
+       }
