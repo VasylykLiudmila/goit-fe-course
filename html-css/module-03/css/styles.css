@@ -1,31 +1,28 @@
-*{margin: 0;
-  padding:0px;
+*{margin:5px;
+  padding:2px;
   box-sizing:border-box
   }
-* {margin-bottom: 5px;
-   padding:10px; 
-   }
-   .img {box-sizing:border-box ;
-         margin: auto;
+.img {box-sizing:border-box ;
+         margin:auto;
           }
 body {background-image:url(../images/page-bg.jpg); 
       background-size:cover;
       background-repeat:no-repeat;
       background-position:center;
       }
-.body {min-height: 100vh;
-       }
+h2 {font-family: Pathway Gotic One;
+    } 
 .wrapper {width:480px;
       display:block;
       margin:auto;
-      padding:20px;30px;20px;
-      border:2px solid whitesmoke;
+      padding:20px;
+      border:solidcolor white;
       background:white; 
       }
 
  .text {font-weight:bold;
        }
  
- .list {column-count: 2;
+ .list {column-count:2;
        list-style:none;
        }
